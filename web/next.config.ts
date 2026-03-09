@@ -5,6 +5,7 @@ const nextConfig: NextConfig = {
   images: {
     unoptimized: true,
   },
+  // Added comment to trigger redeploy
 };
 
 export default nextConfig;
